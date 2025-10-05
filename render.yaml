@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: reverse-country-api
+    name: backendchellenge
     env: docker
     plan: free
     autoDeploy: true

@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+om_cache.sqlite*
 # IDE
 .vscode/
 .idea/
